@@ -1,0 +1,11 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\e-okul_projesi\bin\Debug\e-okul_projesi.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\e-okul_projesi\bin\Debug\e-okul_projesi.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\e-okul_projesi\bin\Debug\e-okul_projesi.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\e-okul_projesi\obj\Debug\e-okul_projesi.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\e-okul_projesi\obj\Debug\e_okul_projesi.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\e-okul_projesi\obj\Debug\e_okul_projesi.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\e-okul_projesi\obj\Debug\e-okul_projesi.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\e-okul_projesi\obj\Debug\e-okul_projesi.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\e-okul_projesi\obj\Debug\e-okul_projesi.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\e-okul_projesi\obj\Debug\e-okul_projesi.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\e-okul_projesi\obj\Debug\e_okul_projesi.frmOgrNotEkrani.resources

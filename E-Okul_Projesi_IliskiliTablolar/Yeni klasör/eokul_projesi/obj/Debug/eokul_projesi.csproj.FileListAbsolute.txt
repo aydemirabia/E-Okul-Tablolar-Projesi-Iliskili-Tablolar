@@ -1,0 +1,16 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.FrmOgrenciNotEkrani.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\bin\Debug\eokul_projesi.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\bin\Debug\eokul_projesi.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\bin\Debug\eokul_projesi.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.FrmOgretmen.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.FrmKulup.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.FrmDersler.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.FrmOgrenci.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\E-Okul_Projesi_IliskiliTablolar\Yeni klasör\eokul_projesi\obj\Debug\eokul_projesi.FrmSinavNotlar.resources
